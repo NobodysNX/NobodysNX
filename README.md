@@ -7,6 +7,6 @@
 <h3> Certifications</h3>
 
 - [Google Professional Cybersecurity]
-- [Microspft Windows Defender and Firewall] 
+- [Microsoft Windows Defender and Firewall] 
 
 

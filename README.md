@@ -7,7 +7,7 @@
 <h3> Certifications</h3>
 
 - [Google Professional Cybersecurity]
-- [Microsoft Windows Defender and Firewall]
+- [Microsoft Windows Defender and Firewall] 
 - [Conduct a Security Audit] 
 
 

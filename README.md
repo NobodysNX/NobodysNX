@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab]
-- [Conduct a Security Audit]()
+- [Conduct a Security Audit]
 
 <h3> Certifications</h3>
 
